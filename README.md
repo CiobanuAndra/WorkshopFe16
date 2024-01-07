@@ -1,2 +1,2 @@
 # WorkshopFe16
-Html and CSS Workshop
+Html and CSS Workshop with my Wantsome Course mentor
